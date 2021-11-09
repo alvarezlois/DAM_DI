@@ -1,2 +1,2 @@
 # DAM_DI
-Deseño de Interfaces
+Repositorio para MP0488 Deseño de Interfaces
